@@ -1,0 +1,10 @@
+{
+  "name": "tombroucke/ninja-forms-action-trigger-for-google-analytics",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/tombroucke/ninja-forms-action-trigger-for-google-analytics",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
